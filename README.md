@@ -4,7 +4,7 @@
 **Stack**:
 * Python 3.10
 * Django Rest Framework
-* Djoiser
+* Djoser
 * Postgres
 * Docker
 
